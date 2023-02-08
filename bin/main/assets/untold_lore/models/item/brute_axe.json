@@ -1,0 +1,7 @@
+{
+  "parent": "untold_lore:custom/brute_axe",
+  "textures": {
+    "0": "untold_lore:blocks/brute_axe",
+    "particle": "untold_lore:items/scarletite"
+  }
+}

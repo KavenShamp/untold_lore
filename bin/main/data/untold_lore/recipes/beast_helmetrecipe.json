@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "untold_lore:ravager_horn"
+    },
+    "1": {
+      "item": "untold_lore:pillagsteel"
+    },
+    "2": {
+      "item": "untold_lore:ravager_horn"
+    },
+    "3": {
+      "item": "untold_lore:pillagsteel"
+    },
+    "4": {
+      "item": "untold_lore:pillagerarmor_helmet"
+    },
+    "5": {
+      "item": "untold_lore:pillagsteel"
+    },
+    "6": {
+      "item": "untold_lore:pillagsteel"
+    },
+    "7": {
+      "item": "untold_lore:pillagsteel"
+    },
+    "8": {
+      "item": "untold_lore:pillagsteel"
+    }
+  },
+  "result": {
+    "item": "untold_lore:beasthelmet_helmet",
+    "count": 1
+  }
+}

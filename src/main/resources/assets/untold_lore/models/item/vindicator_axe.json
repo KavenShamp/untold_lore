@@ -1,0 +1,7 @@
+{
+  "parent": "untold_lore:custom/johnny_axe",
+  "textures": {
+    "0": "untold_lore:blocks/johnny_axe",
+    "particle": "untold_lore:items/pillagsteel"
+  }
+}

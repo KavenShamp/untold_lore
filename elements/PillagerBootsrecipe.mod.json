@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.LEATHER"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.LEATHER"
+      },
+      {
+        "value": "CUSTOM:Pillagsteel"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Pillagsteel"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Pillagerarmor.boots"
+    },
+    "name": "pillager_bootsrecipe",
+    "namespace": "mod"
+  }
+}

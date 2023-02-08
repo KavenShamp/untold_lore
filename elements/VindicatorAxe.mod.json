@@ -1,0 +1,27 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "pillagsteel",
+    "customModelName": "johnny_axe:default",
+    "name": "Vindicator Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 3,
+    "efficiency": 4.0,
+    "attackSpeed": 1.2,
+    "enchantability": 2,
+    "damageVsEntity": 9.5,
+    "usageCount": 8154,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

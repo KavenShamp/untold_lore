@@ -1,0 +1,7 @@
+{
+  "parent": "untold_lore:custom/piglin_shield",
+  "textures": {
+    "0": "untold_lore:blocks/piglin_shield",
+    "particle": "untold_lore:items/scarletite"
+  }
+}

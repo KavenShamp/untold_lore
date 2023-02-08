@@ -1,0 +1,27 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "scarletite",
+    "customModelName": "pig_sickle:default",
+    "name": "Piglin Sica",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.8,
+    "enchantability": 22,
+    "damageVsEntity": 5.0,
+    "usageCount": 1532,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

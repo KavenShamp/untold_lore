@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "untold_lore:hoglin_quills_cloth"
+    },
+    "1": {
+      "item": "untold_lore:scarletiteingot"
+    },
+    "2": {
+      "item": "untold_lore:hoglin_quills_cloth"
+    },
+    "3": {
+      "item": "untold_lore:scarletiteingot"
+    },
+    "5": {
+      "item": "untold_lore:scarletiteingot"
+    },
+    "6": {
+      "item": "untold_lore:scarletiteingot"
+    },
+    "8": {
+      "item": "untold_lore:scarletiteingot"
+    }
+  },
+  "result": {
+    "item": "untold_lore:piglinarmor_helmet",
+    "count": 1
+  }
+}

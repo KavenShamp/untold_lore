@@ -1,0 +1,376 @@
+{
+  "mod_elements": [
+    {
+      "name": "Pillagerarmor",
+      "type": "armor",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pillagerarmor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Piglinarmor",
+      "type": "armor",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "piglinarmor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Championhelmet",
+      "type": "armor",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "championhelmet",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "Beasthelmet",
+      "type": "armor",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beasthelmet",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "Scarletiteingot",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scarletiteingot"
+    },
+    {
+      "name": "Pillagsteel",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pillagsteel"
+    },
+    {
+      "name": "PiglinChestplateRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "piglin_chestplate_recipe"
+    },
+    {
+      "name": "PiglinLegginsrecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "piglin_legginsrecipe"
+    },
+    {
+      "name": "PiglinHelmetrecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "piglin_helmetrecipe"
+    },
+    {
+      "name": "PiglinBootsrecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "piglin_bootsrecipe"
+    },
+    {
+      "name": "PillagerHelmetrecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pillager_helmetrecipe"
+    },
+    {
+      "name": "PillagerChestplaterecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pillager_chestplaterecipe"
+    },
+    {
+      "name": "PillagerLegginsrecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pillager_legginsrecipe"
+    },
+    {
+      "name": "PillagerBootsrecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pillager_bootsrecipe"
+    },
+    {
+      "name": "ChampionHelmetrecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "champion_helmetrecipe"
+    },
+    {
+      "name": "BeastHelmetrecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beast_helmetrecipe"
+    },
+    {
+      "name": "PiglinSica",
+      "type": "tool",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "piglin_sickle"
+    },
+    {
+      "name": "PiglinBident",
+      "type": "tool",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "piglin_trident"
+    },
+    {
+      "name": "PiglinScissor",
+      "type": "tool",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "piglin_claw"
+    },
+    {
+      "name": "BruteAxe",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brute_axe"
+    },
+    {
+      "name": "VindicatorAxe",
+      "type": "tool",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vindicator_axe"
+    },
+    {
+      "name": "PiglinShieldCanUseRangedItem",
+      "type": "procedure",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "piglin_shield_can_use_ranged_item",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": []
+      }
+    },
+    {
+      "name": "PiglinShield",
+      "type": "rangeditem",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "piglin_shield"
+    },
+    {
+      "name": "PiglinShieldDamage",
+      "type": "procedure",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "piglin_shield_damage",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "amount",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HoglinRobe",
+      "type": "armor",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hoglin_robe",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
+    },
+    {
+      "name": "CrimsonStick",
+      "type": "item",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_stick"
+    },
+    {
+      "name": "WarpedStick",
+      "type": "item",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warped_stick"
+    },
+    {
+      "name": "HoglinQuills",
+      "type": "item",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hoglin_quills"
+    },
+    {
+      "name": "HoglinQuillsCloth",
+      "type": "item",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hoglin_quills_cloth"
+    },
+    {
+      "name": "RavagerHorn",
+      "type": "item",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ravager_horn"
+    },
+    {
+      "name": "HoglinSkin",
+      "type": "item",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hoglin_skin"
+    },
+    {
+      "name": "HoglinCloakRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hoglin_cloak_recipe"
+    },
+    {
+      "name": "HoglinCowlRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hoglin_cowl_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.untold_lore.piglin_trident": "Piglin Bident",
+      "item.untold_lore.ravager_horn": "Ravager Horn",
+      "item.untold_lore.piglin_sickle": "Piglin Sica",
+      "item.untold_lore.pillagerarmor_helmet": "Pillager Helmet",
+      "item.untold_lore.piglin_shield": "Piglin Shield",
+      "item.untold_lore.piglinarmor_boots": "Piglin Boots",
+      "item.untold_lore.hoglin_skin": "Hoglin Skin",
+      "item.untold_lore.pillagerarmor_boots": "Pillager Boots",
+      "item.untold_lore.hoglin_robe_leggings": "Hoglin Robe Leggings",
+      "item.untold_lore.championhelmet_chestplate": "Championhelmet Body",
+      "item.untold_lore.hoglin_robe_helmet": "Hoglin Cowl",
+      "item.untold_lore.beasthelmet_leggings": "Beasthelmet Leggings",
+      "item.untold_lore.championhelmet_helmet": "Champion Helmet",
+      "item.untold_lore.vindicator_axe": "Vindicator Axe",
+      "item.untold_lore.piglinarmor_leggings": "Piglin Leggings",
+      "item.untold_lore.championhelmet_boots": "Championhelmet Boots",
+      "item.untold_lore.scarletiteingot": "Scarletiteingot",
+      "item.untold_lore.pillagerarmor_chestplate": "Pillager Chestplate",
+      "item.untold_lore.crimson_stick": "Crimson Stick",
+      "item.untold_lore.beasthelmet_chestplate": "Beasthelmet Body",
+      "item.untold_lore.brute_axe": "Brute Axe",
+      "item.untold_lore.pillagerarmor_leggings": "Pillager Leggings",
+      "item.untold_lore.beasthelmet_boots": "Beasthelmet Boots",
+      "item.untold_lore.championhelmet_leggings": "Championhelmet Leggings",
+      "item.untold_lore.piglinarmor_chestplate": "Piglin Chestplate",
+      "item.untold_lore.hoglin_quills": "Hoglin Quills",
+      "item.untold_lore.warped_stick": "Warped Stick",
+      "item.untold_lore.pillagsteel": "Pillagsteel",
+      "item.untold_lore.beasthelmet_helmet": "Beast Helmet",
+      "item.untold_lore.hoglin_robe_chestplate": "Hoglin Cloak",
+      "item.untold_lore.piglin_claw": "Piglin Scissor",
+      "item.untold_lore.hoglin_robe_boots": "Hoglin Robe Boots",
+      "item.untold_lore.piglinarmor_helmet": "Piglin Helmet",
+      "item.untold_lore.hoglin_quills_cloth": "Hoglin Quills Cloth"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "untold_lore",
+    "modName": "untold_lore",
+    "version": "1.0.0",
+    "author": "macie, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "net.mcreator.untoldlore",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

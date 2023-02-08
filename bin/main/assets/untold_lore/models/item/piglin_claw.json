@@ -1,0 +1,7 @@
+{
+  "parent": "untold_lore:custom/pig_claw",
+  "textures": {
+    "0": "untold_lore:blocks/pig_scissor",
+    "particle": "untold_lore:items/scarletite"
+  }
+}

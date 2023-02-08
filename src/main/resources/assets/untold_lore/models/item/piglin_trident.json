@@ -1,0 +1,7 @@
+{
+  "parent": "untold_lore:custom/pig_trident",
+  "textures": {
+    "0": "untold_lore:blocks/piglin_bident",
+    "particle": "untold_lore:items/scarletite"
+  }
+}

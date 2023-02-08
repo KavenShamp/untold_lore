@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "untold_lore:hoglin_quills"
+    },
+    "3": {
+      "item": "untold_lore:hoglin_skin"
+    },
+    "4": {
+      "item": "untold_lore:hoglin_skin"
+    },
+    "5": {
+      "item": "untold_lore:hoglin_skin"
+    },
+    "6": {
+      "item": "untold_lore:hoglin_skin"
+    },
+    "7": {
+      "item": "untold_lore:hoglin_skin"
+    },
+    "8": {
+      "item": "untold_lore:hoglin_skin"
+    }
+  },
+  "result": {
+    "item": "untold_lore:hoglin_robe_helmet",
+    "count": 1
+  }
+}
